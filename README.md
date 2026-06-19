@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/VaidikAgnihotri45/DSA_Pro/tree/master/0076-minimum-window-substring) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VaidikAgnihotri45/DSA_Pro/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VaidikAgnihotri45/DSA_Pro/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VaidikAgnihotri45/DSA_Pro/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
